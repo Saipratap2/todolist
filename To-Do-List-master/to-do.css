@@ -1,0 +1,110 @@
+.todo-bg-container{
+    background-color:#f9fbfe;
+    height:100vh;
+}
+.todo-heading{
+    text-align: center;
+    font-family:"Roboto";
+    font: size 40px;
+    font-weight:500;
+    margin-top: 20px;
+    margin: bottom 20px;
+}
+.create-task-heading{
+    font-family: "Roboto";
+    font: size 32px;
+    font-weight: 700;
+}
+.create-task-heading-subpart{
+    font-family: "Roboto";
+    font: size 32px;
+    font-weight: 500;
+}
+.todo-items-container{
+    margin: 0px;
+    padding: 0px;
+}
+.todo-item-container{
+    margin-top: 15px;
+}
+
+/*.add-todo-button{
+    background-color:  #031c74 ;
+    color: white;
+    font-size: 18px;
+    border-radius: 8px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-width: 0px;
+}*/
+.checkbox-input{
+    width:20px;
+    height: 20px;
+    margin-top: 12px;
+    margin-right: 12px;
+}
+.todo-items-heading{
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: 500;
+}
+.todo-items-heading-subpart{
+    font-family:"Roboto";
+    font-size: 32px;
+    font-weight: 500;
+}
+.todo-user-input{
+    background-color: white;
+    width: 100%;
+    border-style: solid;
+    border-width: 1px;
+    border-color:#e4e7eb;
+    margin-top: 10px;
+}
+.label-container{
+    background-color: #e6f6ff;
+    width: 100%;
+    border-radius: 4px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #096f92;
+    border-right: none;
+    border-bottom: none;
+    border-top: none;
+    border-radius: 4px;
+}
+.checkbox-label{
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+    width: 80%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+}
+/*.delete-icon-container{
+    margin: auto;
+}*/
+
+.checked{
+    text-decoration: line-through;
+}
+.button{
+    background-color:  #031c74 ;
+    color: white;
+    font-size: 18px;
+    border-radius: 8px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-width: 0px;
+}
